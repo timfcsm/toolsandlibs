@@ -130,28 +130,12 @@
 
 ### Ресурсы
 
-[
-
-<div style="text-align:center;">![](https://habrastorage.org/web/fc4/052/020/fc4052020ea54664a966784b454fa518.gif)</div>
-
-](https://ghost.org/)  
-
 [Ghost](https://ghost.org/)  — Простая платформа для блогов, разработанная с помощью node.js  
-
-[
-
-<div style="text-align:center;">![](https://habrastorage.org/web/596/2f9/236/5962f9236921477ab6b1b1fde02c97f5.gif)</div>
-
-](https://www.whatruns.com/)  
 
 [What runs](https://www.whatruns.com/)  —  Плагин Chrome, предназначенный для изучения технологий, используемых для создания современного веб-сайта  
 
-[![](https://habrastorage.org/web/551/2c3/795/5512c37956c24abc88560eba65df7c85.png)](https://learn-anything.xyz/learn-anything)  
-
 [Learn anything ](https://learn-anything.xyz/learn-anything) —   Диаграмма связей для выбора дисциплины (например физика, химия и т.д.) и вывода ее подразделов  
 
-[![](https://habrastorage.org/web/7b4/ee3/a7e/7b4ee3a7e7354c91b95a1d366aa7deb4.png)  
-](http://www.liveedu.tv/)  
 [LiveEdu.tv](http://www.liveedu.tv) — Стриминговый сервис для программистов и дизайнеров, который сфокусирован на реальных проектах. Здесь вы сможете найти сотни каналов по следующим темам: разработка программного обеспечения, искусственный интеллект, наука о данных, разработка игр, дизайн, VR & AR разработка, криптовалюты, на которых разрабатывают реальные проекты, в режиме реального времени и в процессе разработки авторы объясняют каждый шаг.  
 
 [head cheatsheet](https://github.com/joshbuchea/HEAD)  —  Список всего, что можно включить в тег head
