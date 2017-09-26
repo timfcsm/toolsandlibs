@@ -90,6 +90,10 @@
 
 [IziModal](http://izimodal.marcelodolce.com/)  —   Всплывающие окна, реализованные с помощью простого JavaScript  
 
+[ngraph.path](https://github.com/anvaka/ngraph.path)  — нахождение пути в графе
+
+[Winamp2-js](https://github.com/captbaritone/winamp2-js) — реализация Windamp 2.9 на HTML5 и JS
+
 ### Библиотеки CSS / Дизайн-инструменты
 
 [Animate.css](https://daneden.github.io/animate.css/)  — Библиотека анимаций  
