@@ -148,7 +148,12 @@
 #### Веб-приложение на Node и Vue, туториал от [Gustavo Domaradzki](https://codeburst.io/@gdomaradzki?source=post_header_lockup), перевод [RUVDS.com](https://habrahabr.ru/company/ruvds/)
 
 [часть 1 - Структура проекта, API, аутентификация](https://habrahabr.ru/company/ruvds/blog/340750/)
+
 [часть 2 - Компоненты, формы, маршруты](https://habrahabr.ru/company/ruvds/blog/340926/)
+
 [часть 3 - Развитие клиента и сервера](https://habrahabr.ru/company/ruvds/blog/341874/)
+
 [часть 4 - Повторное использование кода](https://habrahabr.ru/company/ruvds/blog/342402/)
+
 [часть 5 - Завершение работы над проектом](https://habrahabr.ru/company/ruvds/blog/346784/)
+
